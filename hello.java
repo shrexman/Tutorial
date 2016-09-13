@@ -4,7 +4,7 @@ main(){
 
 String fname = "shreyas";
 String lname = "Chauhan";
-System.out.println("Hello Git!! " + fname + lname);
+System.out.println("Hello Git!! " + fname + lname + "cheap thrills !!!");
 }
 
 }
